@@ -24,9 +24,24 @@ This app is developed using new Android Libary Jetpack Compose. This porject was
 ## 📸Preview
 
 ### Screenshot Preview
-|----|----|----|----|
-|![Preview](BuyNest/preview/5.png)|![Preview](BuyNest/preview/6.png)|![Preview](BuyNest/preview/7.png)|![Preview](BuyNest/preview/8.png)|
-|![Preview](BuyNest/preview/9.png)|![Preview](BuyNest/preview/10.png)|![Preview](BuyNest/preview/11.png)||![Preview](BuyNest/preview/12.png)|![Preview](BuyNest/preview/13.png)|
+
+<table>
+  <tr>
+    <td><img src="BuyNest/preview/5.png" width="150"/></td>
+    <td><img src="BuyNest/preview/6.png" width="150"/></td>
+    <td><img src="BuyNest/preview/7.png" width="150"/></td>
+    <td><img src="BuyNest/preview/8.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="BuyNest/preview/9.png" width="150"/></td>
+    <td><img src="BuyNest/preview/10.png" width="150"/></td>
+    <td><img src="BuyNest/preview/11.png" width="150"/></td>
+    <td><img src="BuyNest/preview/12.png" width="150"/></td>
+  </tr>
+  <tr>
+    <td><img src="BuyNest/preview/13.png" width="150"/></td>
+  </tr>
+</table>
 
 
 
