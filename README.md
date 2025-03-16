@@ -24,7 +24,7 @@ This app is developed using new Android Libary Jetpack Compose. This porject was
 ## 📸Preview
 
 ### Screenshot Preview
-|![Preview](/preview/1.png)|![Preview](/preview/2.png)|![Preview](/preview/3.png)|![Preview](/preview/4.png)|
+|![Preview](BuyNest/preview/1.png)|![Preview](BuyNest/preview/3.png)|![Preview](BuyNest/preview/4.png)|
 |----|----|----|----|
 |![Preview](BuyNest/preview/5.png)|![Preview](BuyNest/preview/6.png)|![Preview](BuyNest/preview/7.png)|![Preview](BuyNest/preview/8.png)|
 |![Preview](BuyNest/preview/9.png)|![Preview](BuyNest/preview/10.png)|![Preview](BuyNest/preview/11.png)||![Preview](BuyNest/preview/12.png)|![Preview](BuyNest/preview/13.png)|
