@@ -36,9 +36,6 @@ This app is developed using new Android Libary Jetpack Compose. This porject was
     <td><img src="BuyNest/preview/9.png" width="150"/></td>
     <td><img src="BuyNest/preview/10.png" width="150"/></td>
     <td><img src="BuyNest/preview/11.png" width="150"/></td>
-    <td><img src="BuyNest/preview/12.png" width="150"/></td>
-  </tr>
-  <tr>
     <td><img src="BuyNest/preview/13.png" width="150"/></td>
   </tr>
 </table>
