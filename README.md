@@ -1,5 +1,5 @@
-# E-commerce-Complete-Jetpack-Compose-UI
-This E-commerce was developed by new Android Libary Jetpack Compose. This porject was manily build for implementing the core concenpt of Jetpak Compose with cool animations. Here I have used Google Suggested pattern & try to follow the Best Practices such as:
+# BuyNest
+This app is developed using new Android Libary Jetpack Compose. This porject was manily build for implementing the core concenpt of Jetpak Compose with cool animations. Here I have used Google Suggested pattern & try to follow the Best Practices such as:
 
 1. Clearn Architecture
 2. Nested NavController with a single NavHost.
@@ -26,8 +26,8 @@ This E-commerce was developed by new Android Libary Jetpack Compose. This porjec
 ### Screenshot Preview
 |![Preview](/preview/1.png)|![Preview](/preview/2.png)|![Preview](/preview/3.png)|![Preview](/preview/4.png)|
 |----|----|----|----|
-|![Preview](/preview/5.png)|![Preview](/preview/6.png)|![Preview](/preview/7.png)|![Preview](/preview/8.png)|
-|![Preview](/preview/9.png)|![Preview](/preview/10.png)|![Preview](/preview/11.png)||![Preview](/preview/12.png)|![Preview](/preview/13.png)|
+|![Preview](BuyNest/preview/5.png)|![Preview](BuyNest/preview/6.png)|![Preview](BuyNest/preview/7.png)|![Preview](BuyNest/preview/8.png)|
+|![Preview](BuyNest/preview/9.png)|![Preview](BuyNest/preview/10.png)|![Preview](BuyNest/preview/11.png)||![Preview](BuyNest/preview/12.png)|![Preview](BuyNest/preview/13.png)|
 
 
 
