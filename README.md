@@ -1,7 +1,7 @@
 # E-commerce-Complete-Jetpack-Compose-UI
 This E-commerce was developed by new Android Libary Jetpack Compose. This porject was manily build for implementing the core concenpt of Jetpak Compose with cool animations. Here I have used Google Suggested pattern & try to follow the Best Practices such as:
 
-1. Clearn Architecture
+1. Clean Architecture
 2. Nested NavController with a single NavHost.
 
 ## Used Library:
