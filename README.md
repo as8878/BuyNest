@@ -28,10 +28,9 @@ This E-commerce was developed by new Android Libary Jetpack Compose. This porjec
 https://user-images.githubusercontent.com/75040026/215316872-972a5fc6-de28-4b08-8a93-673016e06c46.mp4
 
 ### Screenshot Preview
-|![Preview](/preview/4.png)|
+|![Preview](/preview/4.png)|![Preview](/preview/5.png)|![Preview](/preview/6.png)|![Preview](/preview/7.png)|
 |----|----|----|----|
-|![Preview](/preview/5.png)|![Preview](/preview/6.png)|![Preview](/preview/7.png)|![Preview](/preview/8.png)|
-|![Preview](/preview/9.png)|![Preview](/preview/10.png)|![Preview](/preview/11.png)||![Preview](/preview/12.png)|![Preview](/preview/13.png)|
+|![Preview](/preview/8.png)|![Preview](/preview/9.png)|![Preview](/preview/10.png)|![Preview](/preview/11.png)||![Preview](/preview/12.png)|![Preview](/preview/13.png)|
 
 
 
