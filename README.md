@@ -23,10 +23,6 @@ This E-commerce was developed by new Android Libary Jetpack Compose. This porjec
 
 ## 📸Preview
 
-### Video Preview
-
-https://user-images.githubusercontent.com/75040026/215316872-972a5fc6-de28-4b08-8a93-673016e06c46.mp4
-
 ### Screenshot Preview
 |![Preview](/preview/4.png)|![Preview](/preview/5.png)|![Preview](/preview/6.png)|![Preview](/preview/7.png)|
 |----|----|----|----|
